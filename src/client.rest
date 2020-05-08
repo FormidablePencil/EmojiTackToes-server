@@ -1,0 +1,29 @@
+POST http://localhost:4003/auth/register
+Content-Type: application/json
+
+{
+  "email": "gmgssdsdsdsd@gmail.com",
+  "username": "AssdlSksa2",
+  "password": "Alsdseksa89"
+}
+
+###
+POST http://localhost:4003/auth/login
+Content-Type: application/json
+
+{
+  "username": "AssdlSksa2",
+  "password": "Alsdseksa89"
+}
+
+###
+POST http://localhost:4003/auth/token
+Content-Type: application/json
+
+{
+  "token": "eyJhbGciOiJIUzI1NiJ9.QXNzZGxTa3NhMg.ssNkOAjvaQw4iMEynTqpah_m8SG7gJEmD673s4KMECw"
+}
+
+###
+POST http://localhost:4005/game
+Content-Type: application/json
