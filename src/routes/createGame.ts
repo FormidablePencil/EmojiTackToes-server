@@ -1,8 +1,8 @@
 import express from 'express'
 import mongoose from 'mongoose'
 const createGame = express.Router()
-import { gameResponses } from '../../types'
-import GameboardModel from '../../Models/GameboardModel'
+import { gameResponses } from '../types'
+import GameboardModel from '../Models/GameboardModel'
 
 createGame.post('/', async (req, res) => {
   const { gameId } = req.body

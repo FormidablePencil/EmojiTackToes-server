@@ -1,7 +1,6 @@
 import express from 'express'
-import mongoose from 'mongoose'
-import GameboardModel from '../../Models/GameboardModel'
-import { gameResponses } from '../../types'
+import GameboardModel from '../Models/GameboardModel'
+import { gameResponses } from '../types'
 const deleteGame = express.Router()
 
 deleteGame.delete('/', (req, res) => {

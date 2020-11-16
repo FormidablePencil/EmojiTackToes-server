@@ -1,7 +1,7 @@
 import express from 'express'
 import mongoose from 'mongoose'
-import GameboardModel from '../../Models/GameboardModel'
-import { gameResponses } from '../../types'
+import GameboardModel from '../Models/GameboardModel'
+import { gameResponses } from '../types'
 const putGame = express.Router()
 
 putGame.put('/', async (req, res) => {
