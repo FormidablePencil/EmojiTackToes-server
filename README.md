@@ -1,6 +1,6 @@
 # EmojiTackToes-server
 
-You can find the app in the App Store at: https://play.google.com/store/apps/details?id=com.emoji.emojitacktoes/
+You can find the app in the google play store: https://play.google.com/store/apps/details?id=com.emoji.emojitacktoes/
 
 ## Demo
 
