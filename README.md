@@ -1,6 +1,6 @@
 # EmojiTackToes-server
 
-You can find the app in the google play store: https://play.google.com/store/apps/details?id=com.emoji.emojitacktoes/
+You can find the app in the google play store: https://play.google.com/store/apps/details?id=com.emoji.emojitacktoes
 
 ## Demo
 
@@ -12,7 +12,7 @@ Demo video: https://youtu.be/RHMmuPUvPyU
 
 ### Client
 
-Client code repo at: https://github.com/FormidablePencil/EmojITackToes/
+Client code repo at: https://github.com/FormidablePencil/EmojITackToes
 
 - Expo <img src="https://i.ibb.co/M73yQZt/expoLogo.png" width="20" title="">
 - React Native <img src="https://i.ibb.co/nb965ST/react-Logo.png" width="20" title="">
@@ -30,4 +30,4 @@ Client code repo at: https://github.com/FormidablePencil/EmojITackToes/
 
 ## Download
 
-- Get it from the google play store: https://play.google.com/store/apps/details?id=com.emoji.emojitacktoes/
+- Get it from the google play store: https://play.google.com/store/apps/details?id=com.emoji.emojitacktoes
